@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use ViNewsRec or the sample files in this repository, please cite the following work."
+title: "ViNewsRec: A Large-Scale Vietnamese News Dataset for Personalized News Recommendation"
+authors:
+  - family-names: "Duong"
+    given-names: "Dat"
+  - family-names: "Tran"
+    given-names: "Phuoc"
+  - family-names: "Tran"
+    given-names: "Dai"
+  - family-names: "Tran"
+    given-names: "Tram"
+year: 2026
+type: dataset
+repository-code: "https://github.com/USERNAME/ViNewsRec"
+abstract: "ViNewsRec is a large-scale Vietnamese news dataset constructed for research on Vietnamese NLP, information retrieval, topic modeling, and personalized news recommendation."
+keywords:
+  - Vietnamese news dataset
+  - news recommendation
+  - natural language processing
+  - topic modeling
+  - information retrieval
+license: "CC-BY-4.0"
