@@ -52,9 +52,9 @@ Each full record in ViNewsRec follows the schema below:
   "category": "string",
   "category_source": "string",
   "publish_date": "YYYY-MM-DD",
-  "publish_year": 2026,
+  "publish_year": "integer",
   "content": "string",
-  "content_length": 2450,
+  "content_length": "integer",
   "text": "string"
 }
 ```
