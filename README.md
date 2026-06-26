@@ -58,15 +58,4 @@ Each full record in ViNewsRec follows the schema below:
   "text": "string"
 }
 ```
-## Citation
 
-If you use ViNewsRec or the sample files in this repository, please cite the following paper:
-
-```bibtex
-@article{datduongvinewsrec,
-  title={ViNewsRec: A Large-Scale Vietnamese News Dataset for Personalized News Recommendation},
-  author={Duong, Dat and Tran, Phuoc and Tran, Dai and Tran, Tram},
-  year={2026},
-  note={Manuscript in preparation}
-}
-```
