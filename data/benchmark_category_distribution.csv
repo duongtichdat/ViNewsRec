@@ -1,0 +1,841 @@
+subset,split,category,count
+ViNewsRec-50K,train,AI,36
+ViNewsRec-50K,train,An ninh,628
+ViNewsRec-50K,train,An ninh mạng,36
+ViNewsRec-50K,train,Blockchain,12
+ViNewsRec-50K,train,Bảo mật,8
+ViNewsRec-50K,train,Bất động sản,267
+ViNewsRec-50K,train,COVID-19,20
+ViNewsRec-50K,train,Chuyển đổi số,69
+ViNewsRec-50K,train,Chính sách xã hội,44
+ViNewsRec-50K,train,Chính trị,1502
+ViNewsRec-50K,train,Chứng khoán,9
+ViNewsRec-50K,train,Công an,44
+ViNewsRec-50K,train,Công nghệ,1375
+ViNewsRec-50K,train,Công nghệ số,40
+ViNewsRec-50K,train,Dinh dưỡng,68
+ViNewsRec-50K,train,Doanh nghiệp,191
+ViNewsRec-50K,train,Doanh nhân,131
+ViNewsRec-50K,train,Du lịch,460
+ViNewsRec-50K,train,Game,42
+ViNewsRec-50K,train,Gia đình,91
+ViNewsRec-50K,train,Giao thông,289
+ViNewsRec-50K,train,Giáo dục,1863
+ViNewsRec-50K,train,Giải trí,1337
+ViNewsRec-50K,train,Giới trẻ,353
+ViNewsRec-50K,train,Hoa hậu,9
+ViNewsRec-50K,train,Hạ tầng số,82
+ViNewsRec-50K,train,Internet,25
+ViNewsRec-50K,train,Khoa học,356
+ViNewsRec-50K,train,Kinh doanh,851
+ViNewsRec-50K,train,Kinh tế,2373
+ViNewsRec-50K,train,Kinh tế số,14
+ViNewsRec-50K,train,Kinh tế xanh,9
+ViNewsRec-50K,train,Lao động,242
+ViNewsRec-50K,train,Luật,60
+ViNewsRec-50K,train,Làm đẹp,66
+ViNewsRec-50K,train,Môi trường,36
+ViNewsRec-50K,train,Mạng xã hội,8
+ViNewsRec-50K,train,Ngân hàng,36
+ViNewsRec-50K,train,Nhà đất,65
+ViNewsRec-50K,train,Nhịp sống,288
+ViNewsRec-50K,train,Nông nghiệp,43
+ViNewsRec-50K,train,Nông thôn,11
+ViNewsRec-50K,train,Nội thất,10
+ViNewsRec-50K,train,Pháp luật,2522
+ViNewsRec-50K,train,Phóng sự,30
+ViNewsRec-50K,train,Quốc phòng,34
+ViNewsRec-50K,train,Quốc tế,1036
+ViNewsRec-50K,train,Sách báo,45
+ViNewsRec-50K,train,Sức khỏe,2019
+ViNewsRec-50K,train,Thế giới,3028
+ViNewsRec-50K,train,Thể thao,3770
+ViNewsRec-50K,train,Thị trường,1018
+ViNewsRec-50K,train,Thời sự,4753
+ViNewsRec-50K,train,Thời trang,146
+ViNewsRec-50K,train,Tiêu dùng,138
+ViNewsRec-50K,train,Tài chính,376
+ViNewsRec-50K,train,Viễn thông,67
+ViNewsRec-50K,train,Việc làm,17
+ViNewsRec-50K,train,Văn hóa,1506
+ViNewsRec-50K,train,Văn nghệ,216
+ViNewsRec-50K,train,Xe cộ,780
+ViNewsRec-50K,train,Xã hội,1894
+ViNewsRec-50K,train,Y tế,163
+ViNewsRec-50K,train,Âm nhạc,161
+ViNewsRec-50K,train,Điện ảnh,734
+ViNewsRec-50K,train,Đoàn - Hội,8
+ViNewsRec-50K,train,Đô thị,320
+ViNewsRec-50K,train,Địa ốc,42
+ViNewsRec-50K,train,Đời sống,1587
+ViNewsRec-50K,train,Ẩm thực,91
+ViNewsRec-50K,dev,AI,5
+ViNewsRec-50K,dev,An ninh,78
+ViNewsRec-50K,dev,An ninh mạng,4
+ViNewsRec-50K,dev,Blockchain,1
+ViNewsRec-50K,dev,Bảo mật,1
+ViNewsRec-50K,dev,Bất động sản,33
+ViNewsRec-50K,dev,COVID-19,2
+ViNewsRec-50K,dev,Chuyển đổi số,9
+ViNewsRec-50K,dev,Chính sách xã hội,5
+ViNewsRec-50K,dev,Chính trị,188
+ViNewsRec-50K,dev,Chứng khoán,1
+ViNewsRec-50K,dev,Công an,5
+ViNewsRec-50K,dev,Công nghệ,172
+ViNewsRec-50K,dev,Công nghệ số,5
+ViNewsRec-50K,dev,Dinh dưỡng,9
+ViNewsRec-50K,dev,Doanh nghiệp,24
+ViNewsRec-50K,dev,Doanh nhân,16
+ViNewsRec-50K,dev,Du lịch,57
+ViNewsRec-50K,dev,Game,5
+ViNewsRec-50K,dev,Gia đình,11
+ViNewsRec-50K,dev,Giao thông,36
+ViNewsRec-50K,dev,Giáo dục,233
+ViNewsRec-50K,dev,Giải trí,167
+ViNewsRec-50K,dev,Giới trẻ,44
+ViNewsRec-50K,dev,Hoa hậu,1
+ViNewsRec-50K,dev,Hạ tầng số,10
+ViNewsRec-50K,dev,Internet,3
+ViNewsRec-50K,dev,Khoa học,44
+ViNewsRec-50K,dev,Kinh doanh,106
+ViNewsRec-50K,dev,Kinh tế,297
+ViNewsRec-50K,dev,Kinh tế số,2
+ViNewsRec-50K,dev,Kinh tế xanh,1
+ViNewsRec-50K,dev,Lao động,30
+ViNewsRec-50K,dev,Luật,8
+ViNewsRec-50K,dev,Làm đẹp,8
+ViNewsRec-50K,dev,Môi trường,5
+ViNewsRec-50K,dev,Mạng xã hội,1
+ViNewsRec-50K,dev,Ngân hàng,4
+ViNewsRec-50K,dev,Nhà đất,8
+ViNewsRec-50K,dev,Nhịp sống,36
+ViNewsRec-50K,dev,Nông nghiệp,6
+ViNewsRec-50K,dev,Nông thôn,1
+ViNewsRec-50K,dev,Nội thất,1
+ViNewsRec-50K,dev,Pháp luật,315
+ViNewsRec-50K,dev,Phóng sự,4
+ViNewsRec-50K,dev,Quốc phòng,4
+ViNewsRec-50K,dev,Quốc tế,130
+ViNewsRec-50K,dev,Sách báo,6
+ViNewsRec-50K,dev,Sức khỏe,253
+ViNewsRec-50K,dev,Thế giới,379
+ViNewsRec-50K,dev,Thể thao,472
+ViNewsRec-50K,dev,Thị trường,128
+ViNewsRec-50K,dev,Thời sự,594
+ViNewsRec-50K,dev,Thời trang,18
+ViNewsRec-50K,dev,Tiêu dùng,17
+ViNewsRec-50K,dev,Tài chính,47
+ViNewsRec-50K,dev,Viễn thông,8
+ViNewsRec-50K,dev,Việc làm,2
+ViNewsRec-50K,dev,Văn hóa,189
+ViNewsRec-50K,dev,Văn nghệ,27
+ViNewsRec-50K,dev,Xe cộ,98
+ViNewsRec-50K,dev,Xã hội,237
+ViNewsRec-50K,dev,Y tế,20
+ViNewsRec-50K,dev,Âm nhạc,20
+ViNewsRec-50K,dev,Điện ảnh,92
+ViNewsRec-50K,dev,Đoàn - Hội,1
+ViNewsRec-50K,dev,Đô thị,40
+ViNewsRec-50K,dev,Địa ốc,5
+ViNewsRec-50K,dev,Đời sống,199
+ViNewsRec-50K,dev,Ẩm thực,12
+ViNewsRec-50K,test,AI,5
+ViNewsRec-50K,test,An ninh,78
+ViNewsRec-50K,test,An ninh mạng,4
+ViNewsRec-50K,test,Blockchain,1
+ViNewsRec-50K,test,Bảo mật,1
+ViNewsRec-50K,test,Bất động sản,33
+ViNewsRec-50K,test,COVID-19,2
+ViNewsRec-50K,test,Chuyển đổi số,9
+ViNewsRec-50K,test,Chính sách xã hội,5
+ViNewsRec-50K,test,Chính trị,188
+ViNewsRec-50K,test,Chứng khoán,1
+ViNewsRec-50K,test,Công an,5
+ViNewsRec-50K,test,Công nghệ,172
+ViNewsRec-50K,test,Công nghệ số,5
+ViNewsRec-50K,test,Dinh dưỡng,9
+ViNewsRec-50K,test,Doanh nghiệp,24
+ViNewsRec-50K,test,Doanh nhân,16
+ViNewsRec-50K,test,Du lịch,57
+ViNewsRec-50K,test,Game,5
+ViNewsRec-50K,test,Gia đình,11
+ViNewsRec-50K,test,Giao thông,36
+ViNewsRec-50K,test,Giáo dục,233
+ViNewsRec-50K,test,Giải trí,167
+ViNewsRec-50K,test,Giới trẻ,44
+ViNewsRec-50K,test,Hoa hậu,1
+ViNewsRec-50K,test,Hạ tầng số,10
+ViNewsRec-50K,test,Internet,3
+ViNewsRec-50K,test,Khoa học,44
+ViNewsRec-50K,test,Kinh doanh,106
+ViNewsRec-50K,test,Kinh tế,297
+ViNewsRec-50K,test,Kinh tế số,2
+ViNewsRec-50K,test,Kinh tế xanh,1
+ViNewsRec-50K,test,Lao động,30
+ViNewsRec-50K,test,Luật,8
+ViNewsRec-50K,test,Làm đẹp,8
+ViNewsRec-50K,test,Môi trường,5
+ViNewsRec-50K,test,Mạng xã hội,1
+ViNewsRec-50K,test,Ngân hàng,4
+ViNewsRec-50K,test,Nhà đất,8
+ViNewsRec-50K,test,Nhịp sống,36
+ViNewsRec-50K,test,Nông nghiệp,6
+ViNewsRec-50K,test,Nông thôn,1
+ViNewsRec-50K,test,Nội thất,1
+ViNewsRec-50K,test,Pháp luật,315
+ViNewsRec-50K,test,Phóng sự,4
+ViNewsRec-50K,test,Quốc phòng,4
+ViNewsRec-50K,test,Quốc tế,130
+ViNewsRec-50K,test,Sách báo,6
+ViNewsRec-50K,test,Sức khỏe,253
+ViNewsRec-50K,test,Thế giới,379
+ViNewsRec-50K,test,Thể thao,472
+ViNewsRec-50K,test,Thị trường,128
+ViNewsRec-50K,test,Thời sự,594
+ViNewsRec-50K,test,Thời trang,18
+ViNewsRec-50K,test,Tiêu dùng,17
+ViNewsRec-50K,test,Tài chính,47
+ViNewsRec-50K,test,Viễn thông,8
+ViNewsRec-50K,test,Việc làm,2
+ViNewsRec-50K,test,Văn hóa,189
+ViNewsRec-50K,test,Văn nghệ,27
+ViNewsRec-50K,test,Xe cộ,98
+ViNewsRec-50K,test,Xã hội,237
+ViNewsRec-50K,test,Y tế,20
+ViNewsRec-50K,test,Âm nhạc,20
+ViNewsRec-50K,test,Điện ảnh,92
+ViNewsRec-50K,test,Đoàn - Hội,1
+ViNewsRec-50K,test,Đô thị,40
+ViNewsRec-50K,test,Địa ốc,5
+ViNewsRec-50K,test,Đời sống,199
+ViNewsRec-50K,test,Ẩm thực,12
+ViNewsRec-100K,train,AI,74
+ViNewsRec-100K,train,An ninh,1254
+ViNewsRec-100K,train,An ninh mạng,71
+ViNewsRec-100K,train,Blockchain,22
+ViNewsRec-100K,train,Bảo mật,8
+ViNewsRec-100K,train,Bất động sản,533
+ViNewsRec-100K,train,COVID-19,39
+ViNewsRec-100K,train,Chuyển đổi số,140
+ViNewsRec-100K,train,Chính sách xã hội,86
+ViNewsRec-100K,train,Chính trị,3005
+ViNewsRec-100K,train,Chứng khoán,19
+ViNewsRec-100K,train,Công an,86
+ViNewsRec-100K,train,Công nghệ,2751
+ViNewsRec-100K,train,Công nghệ số,81
+ViNewsRec-100K,train,Dinh dưỡng,139
+ViNewsRec-100K,train,Doanh nghiệp,383
+ViNewsRec-100K,train,Doanh nhân,261
+ViNewsRec-100K,train,Du lịch,919
+ViNewsRec-100K,train,Game,83
+ViNewsRec-100K,train,Gia đình,180
+ViNewsRec-100K,train,Giao thông,578
+ViNewsRec-100K,train,Giáo dục,3726
+ViNewsRec-100K,train,Giải trí,2675
+ViNewsRec-100K,train,Giới trẻ,707
+ViNewsRec-100K,train,Hoa hậu,8
+ViNewsRec-100K,train,Hạ tầng số,163
+ViNewsRec-100K,train,Internet,51
+ViNewsRec-100K,train,Khoa học,710
+ViNewsRec-100K,train,Kinh doanh,1701
+ViNewsRec-100K,train,Kinh tế,4747
+ViNewsRec-100K,train,Kinh tế số,29
+ViNewsRec-100K,train,Kinh tế xanh,18
+ViNewsRec-100K,train,Lao động,484
+ViNewsRec-100K,train,Luật,122
+ViNewsRec-100K,train,Làm đẹp,131
+ViNewsRec-100K,train,Môi trường,75
+ViNewsRec-100K,train,Mạng xã hội,8
+ViNewsRec-100K,train,Ngân hàng,70
+ViNewsRec-100K,train,Nhà đất,130
+ViNewsRec-100K,train,Nhịp sống,577
+ViNewsRec-100K,train,Nông nghiệp,88
+ViNewsRec-100K,train,Nông thôn,21
+ViNewsRec-100K,train,Nội thất,21
+ViNewsRec-100K,train,Pháp luật,5044
+ViNewsRec-100K,train,Phóng sự,60
+ViNewsRec-100K,train,Quốc phòng,68
+ViNewsRec-100K,train,Quốc tế,2075
+ViNewsRec-100K,train,Sách báo,93
+ViNewsRec-100K,train,Sức khỏe,4041
+ViNewsRec-100K,train,Thế giới,6058
+ViNewsRec-100K,train,Thể thao,7543
+ViNewsRec-100K,train,Thị trường,2038
+ViNewsRec-100K,train,Thời sự,9507
+ViNewsRec-100K,train,Thời trang,292
+ViNewsRec-100K,train,Tiêu dùng,275
+ViNewsRec-100K,train,Tài chính,753
+ViNewsRec-100K,train,Viễn thông,132
+ViNewsRec-100K,train,Việc làm,34
+ViNewsRec-100K,train,Văn hóa,3014
+ViNewsRec-100K,train,Văn nghệ,432
+ViNewsRec-100K,train,Xe cộ,1562
+ViNewsRec-100K,train,Xã hội,3788
+ViNewsRec-100K,train,Y tế,325
+ViNewsRec-100K,train,Âm nhạc,323
+ViNewsRec-100K,train,Điện ảnh,1469
+ViNewsRec-100K,train,Đoàn - Hội,13
+ViNewsRec-100K,train,Đô thị,641
+ViNewsRec-100K,train,Địa ốc,84
+ViNewsRec-100K,train,Đời sống,3177
+ViNewsRec-100K,train,Ẩm thực,185
+ViNewsRec-100K,dev,AI,9
+ViNewsRec-100K,dev,An ninh,157
+ViNewsRec-100K,dev,An ninh mạng,9
+ViNewsRec-100K,dev,Blockchain,3
+ViNewsRec-100K,dev,Bảo mật,1
+ViNewsRec-100K,dev,Bất động sản,67
+ViNewsRec-100K,dev,COVID-19,5
+ViNewsRec-100K,dev,Chuyển đổi số,17
+ViNewsRec-100K,dev,Chính sách xã hội,11
+ViNewsRec-100K,dev,Chính trị,376
+ViNewsRec-100K,dev,Chứng khoán,2
+ViNewsRec-100K,dev,Công an,11
+ViNewsRec-100K,dev,Công nghệ,344
+ViNewsRec-100K,dev,Công nghệ số,10
+ViNewsRec-100K,dev,Dinh dưỡng,17
+ViNewsRec-100K,dev,Doanh nghiệp,48
+ViNewsRec-100K,dev,Doanh nhân,33
+ViNewsRec-100K,dev,Du lịch,115
+ViNewsRec-100K,dev,Game,10
+ViNewsRec-100K,dev,Gia đình,23
+ViNewsRec-100K,dev,Giao thông,72
+ViNewsRec-100K,dev,Giáo dục,466
+ViNewsRec-100K,dev,Giải trí,334
+ViNewsRec-100K,dev,Giới trẻ,88
+ViNewsRec-100K,dev,Hoa hậu,1
+ViNewsRec-100K,dev,Hạ tầng số,21
+ViNewsRec-100K,dev,Internet,6
+ViNewsRec-100K,dev,Khoa học,89
+ViNewsRec-100K,dev,Kinh doanh,213
+ViNewsRec-100K,dev,Kinh tế,594
+ViNewsRec-100K,dev,Kinh tế số,4
+ViNewsRec-100K,dev,Kinh tế xanh,2
+ViNewsRec-100K,dev,Lao động,60
+ViNewsRec-100K,dev,Luật,15
+ViNewsRec-100K,dev,Làm đẹp,17
+ViNewsRec-100K,dev,Môi trường,9
+ViNewsRec-100K,dev,Mạng xã hội,1
+ViNewsRec-100K,dev,Ngân hàng,9
+ViNewsRec-100K,dev,Nhà đất,16
+ViNewsRec-100K,dev,Nhịp sống,72
+ViNewsRec-100K,dev,Nông nghiệp,11
+ViNewsRec-100K,dev,Nông thôn,3
+ViNewsRec-100K,dev,Nội thất,2
+ViNewsRec-100K,dev,Pháp luật,630
+ViNewsRec-100K,dev,Phóng sự,8
+ViNewsRec-100K,dev,Quốc phòng,8
+ViNewsRec-100K,dev,Quốc tế,259
+ViNewsRec-100K,dev,Sách báo,11
+ViNewsRec-100K,dev,Sức khỏe,505
+ViNewsRec-100K,dev,Thế giới,757
+ViNewsRec-100K,dev,Thể thao,943
+ViNewsRec-100K,dev,Thị trường,255
+ViNewsRec-100K,dev,Thời sự,1188
+ViNewsRec-100K,dev,Thời trang,36
+ViNewsRec-100K,dev,Tiêu dùng,35
+ViNewsRec-100K,dev,Tài chính,94
+ViNewsRec-100K,dev,Viễn thông,17
+ViNewsRec-100K,dev,Việc làm,4
+ViNewsRec-100K,dev,Văn hóa,377
+ViNewsRec-100K,dev,Văn nghệ,54
+ViNewsRec-100K,dev,Xe cộ,195
+ViNewsRec-100K,dev,Xã hội,474
+ViNewsRec-100K,dev,Y tế,41
+ViNewsRec-100K,dev,Âm nhạc,40
+ViNewsRec-100K,dev,Điện ảnh,184
+ViNewsRec-100K,dev,Đoàn - Hội,2
+ViNewsRec-100K,dev,Đô thị,80
+ViNewsRec-100K,dev,Địa ốc,10
+ViNewsRec-100K,dev,Đời sống,397
+ViNewsRec-100K,dev,Ẩm thực,23
+ViNewsRec-100K,test,AI,9
+ViNewsRec-100K,test,An ninh,157
+ViNewsRec-100K,test,An ninh mạng,9
+ViNewsRec-100K,test,Blockchain,3
+ViNewsRec-100K,test,Bảo mật,1
+ViNewsRec-100K,test,Bất động sản,67
+ViNewsRec-100K,test,COVID-19,5
+ViNewsRec-100K,test,Chuyển đổi số,17
+ViNewsRec-100K,test,Chính sách xã hội,11
+ViNewsRec-100K,test,Chính trị,376
+ViNewsRec-100K,test,Chứng khoán,2
+ViNewsRec-100K,test,Công an,11
+ViNewsRec-100K,test,Công nghệ,344
+ViNewsRec-100K,test,Công nghệ số,10
+ViNewsRec-100K,test,Dinh dưỡng,17
+ViNewsRec-100K,test,Doanh nghiệp,48
+ViNewsRec-100K,test,Doanh nhân,33
+ViNewsRec-100K,test,Du lịch,115
+ViNewsRec-100K,test,Game,10
+ViNewsRec-100K,test,Gia đình,23
+ViNewsRec-100K,test,Giao thông,72
+ViNewsRec-100K,test,Giáo dục,466
+ViNewsRec-100K,test,Giải trí,334
+ViNewsRec-100K,test,Giới trẻ,88
+ViNewsRec-100K,test,Hoa hậu,1
+ViNewsRec-100K,test,Hạ tầng số,21
+ViNewsRec-100K,test,Internet,6
+ViNewsRec-100K,test,Khoa học,89
+ViNewsRec-100K,test,Kinh doanh,213
+ViNewsRec-100K,test,Kinh tế,594
+ViNewsRec-100K,test,Kinh tế số,4
+ViNewsRec-100K,test,Kinh tế xanh,2
+ViNewsRec-100K,test,Lao động,60
+ViNewsRec-100K,test,Luật,15
+ViNewsRec-100K,test,Làm đẹp,17
+ViNewsRec-100K,test,Môi trường,9
+ViNewsRec-100K,test,Mạng xã hội,1
+ViNewsRec-100K,test,Ngân hàng,9
+ViNewsRec-100K,test,Nhà đất,16
+ViNewsRec-100K,test,Nhịp sống,72
+ViNewsRec-100K,test,Nông nghiệp,11
+ViNewsRec-100K,test,Nông thôn,3
+ViNewsRec-100K,test,Nội thất,2
+ViNewsRec-100K,test,Pháp luật,630
+ViNewsRec-100K,test,Phóng sự,8
+ViNewsRec-100K,test,Quốc phòng,8
+ViNewsRec-100K,test,Quốc tế,259
+ViNewsRec-100K,test,Sách báo,11
+ViNewsRec-100K,test,Sức khỏe,505
+ViNewsRec-100K,test,Thế giới,757
+ViNewsRec-100K,test,Thể thao,943
+ViNewsRec-100K,test,Thị trường,255
+ViNewsRec-100K,test,Thời sự,1188
+ViNewsRec-100K,test,Thời trang,36
+ViNewsRec-100K,test,Tiêu dùng,35
+ViNewsRec-100K,test,Tài chính,94
+ViNewsRec-100K,test,Viễn thông,17
+ViNewsRec-100K,test,Việc làm,4
+ViNewsRec-100K,test,Văn hóa,377
+ViNewsRec-100K,test,Văn nghệ,54
+ViNewsRec-100K,test,Xe cộ,195
+ViNewsRec-100K,test,Xã hội,474
+ViNewsRec-100K,test,Y tế,41
+ViNewsRec-100K,test,Âm nhạc,40
+ViNewsRec-100K,test,Điện ảnh,184
+ViNewsRec-100K,test,Đoàn - Hội,2
+ViNewsRec-100K,test,Đô thị,80
+ViNewsRec-100K,test,Địa ốc,10
+ViNewsRec-100K,test,Đời sống,397
+ViNewsRec-100K,test,Ẩm thực,23
+ViNewsRec-150K,train,AI,110
+ViNewsRec-150K,train,An ninh,1882
+ViNewsRec-150K,train,An ninh mạng,107
+ViNewsRec-150K,train,Blockchain,34
+ViNewsRec-150K,train,Bảo mật,9
+ViNewsRec-150K,train,Bất động sản,801
+ViNewsRec-150K,train,COVID-19,60
+ViNewsRec-150K,train,Chuyển đổi số,209
+ViNewsRec-150K,train,Chính sách xã hội,130
+ViNewsRec-150K,train,Chính trị,4508
+ViNewsRec-150K,train,Chứng khoán,29
+ViNewsRec-150K,train,Công an,130
+ViNewsRec-150K,train,Công nghệ,4126
+ViNewsRec-150K,train,Công nghệ số,121
+ViNewsRec-150K,train,Dinh dưỡng,208
+ViNewsRec-150K,train,Doanh nghiệp,574
+ViNewsRec-150K,train,Doanh nhân,393
+ViNewsRec-150K,train,Du lịch,1379
+ViNewsRec-150K,train,Game,123
+ViNewsRec-150K,train,Gia đình,272
+ViNewsRec-150K,train,Giao thông,867
+ViNewsRec-150K,train,Giáo dục,5588
+ViNewsRec-150K,train,Giải trí,4011
+ViNewsRec-150K,train,Giới trẻ,1060
+ViNewsRec-150K,train,Hoa hậu,9
+ViNewsRec-150K,train,Hạ tầng số,246
+ViNewsRec-150K,train,Internet,77
+ViNewsRec-150K,train,Khoa học,1066
+ViNewsRec-150K,train,Kinh doanh,2552
+ViNewsRec-150K,train,Kinh tế,7122
+ViNewsRec-150K,train,Kinh tế số,44
+ViNewsRec-150K,train,Kinh tế xanh,28
+ViNewsRec-150K,train,Lao động,725
+ViNewsRec-150K,train,Luật,182
+ViNewsRec-150K,train,Làm đẹp,198
+ViNewsRec-150K,train,Môi trường,112
+ViNewsRec-150K,train,Mạng xã hội,9
+ViNewsRec-150K,train,Ngân hàng,106
+ViNewsRec-150K,train,Nhà đất,195
+ViNewsRec-150K,train,Nhịp sống,866
+ViNewsRec-150K,train,Nông nghiệp,131
+ViNewsRec-150K,train,Nông thôn,33
+ViNewsRec-150K,train,Nội thất,30
+ViNewsRec-150K,train,Pháp luật,7564
+ViNewsRec-150K,train,Phóng sự,93
+ViNewsRec-150K,train,Quốc phòng,101
+ViNewsRec-150K,train,Quốc tế,3112
+ViNewsRec-150K,train,Sách báo,138
+ViNewsRec-150K,train,Sức khỏe,6061
+ViNewsRec-150K,train,Thế giới,9087
+ViNewsRec-150K,train,Thể thao,11315
+ViNewsRec-150K,train,Thị trường,3057
+ViNewsRec-150K,train,Thời sự,14259
+ViNewsRec-150K,train,Thời trang,437
+ViNewsRec-150K,train,Tiêu dùng,413
+ViNewsRec-150K,train,Tài chính,1130
+ViNewsRec-150K,train,Viễn thông,199
+ViNewsRec-150K,train,Việc làm,51
+ViNewsRec-150K,train,Văn hóa,4522
+ViNewsRec-150K,train,Văn nghệ,648
+ViNewsRec-150K,train,Xe cộ,2343
+ViNewsRec-150K,train,Xã hội,5684
+ViNewsRec-150K,train,Y tế,489
+ViNewsRec-150K,train,Âm nhạc,483
+ViNewsRec-150K,train,Điện ảnh,2204
+ViNewsRec-150K,train,Đoàn - Hội,21
+ViNewsRec-150K,train,Đô thị,962
+ViNewsRec-150K,train,Địa ốc,124
+ViNewsRec-150K,train,Đời sống,4765
+ViNewsRec-150K,train,Ẩm thực,276
+ViNewsRec-150K,dev,AI,14
+ViNewsRec-150K,dev,An ninh,235
+ViNewsRec-150K,dev,An ninh mạng,13
+ViNewsRec-150K,dev,Blockchain,4
+ViNewsRec-150K,dev,Bảo mật,1
+ViNewsRec-150K,dev,Bất động sản,100
+ViNewsRec-150K,dev,COVID-19,7
+ViNewsRec-150K,dev,Chuyển đổi số,26
+ViNewsRec-150K,dev,Chính sách xã hội,16
+ViNewsRec-150K,dev,Chính trị,564
+ViNewsRec-150K,dev,Chứng khoán,3
+ViNewsRec-150K,dev,Công an,16
+ViNewsRec-150K,dev,Công nghệ,516
+ViNewsRec-150K,dev,Công nghệ số,15
+ViNewsRec-150K,dev,Dinh dưỡng,26
+ViNewsRec-150K,dev,Doanh nghiệp,72
+ViNewsRec-150K,dev,Doanh nhân,49
+ViNewsRec-150K,dev,Du lịch,172
+ViNewsRec-150K,dev,Game,16
+ViNewsRec-150K,dev,Gia đình,34
+ViNewsRec-150K,dev,Giao thông,108
+ViNewsRec-150K,dev,Giáo dục,699
+ViNewsRec-150K,dev,Giải trí,502
+ViNewsRec-150K,dev,Giới trẻ,132
+ViNewsRec-150K,dev,Hoa hậu,1
+ViNewsRec-150K,dev,Hạ tầng số,31
+ViNewsRec-150K,dev,Internet,9
+ViNewsRec-150K,dev,Khoa học,133
+ViNewsRec-150K,dev,Kinh doanh,319
+ViNewsRec-150K,dev,Kinh tế,890
+ViNewsRec-150K,dev,Kinh tế số,6
+ViNewsRec-150K,dev,Kinh tế xanh,3
+ViNewsRec-150K,dev,Lao động,91
+ViNewsRec-150K,dev,Luật,23
+ViNewsRec-150K,dev,Làm đẹp,25
+ViNewsRec-150K,dev,Môi trường,14
+ViNewsRec-150K,dev,Mạng xã hội,1
+ViNewsRec-150K,dev,Ngân hàng,13
+ViNewsRec-150K,dev,Nhà đất,24
+ViNewsRec-150K,dev,Nhịp sống,108
+ViNewsRec-150K,dev,Nông nghiệp,17
+ViNewsRec-150K,dev,Nông thôn,4
+ViNewsRec-150K,dev,Nội thất,4
+ViNewsRec-150K,dev,Pháp luật,946
+ViNewsRec-150K,dev,Phóng sự,11
+ViNewsRec-150K,dev,Quốc phòng,13
+ViNewsRec-150K,dev,Quốc tế,389
+ViNewsRec-150K,dev,Sách báo,17
+ViNewsRec-150K,dev,Sức khỏe,758
+ViNewsRec-150K,dev,Thế giới,1136
+ViNewsRec-150K,dev,Thể thao,1414
+ViNewsRec-150K,dev,Thị trường,382
+ViNewsRec-150K,dev,Thời sự,1783
+ViNewsRec-150K,dev,Thời trang,55
+ViNewsRec-150K,dev,Tiêu dùng,52
+ViNewsRec-150K,dev,Tài chính,141
+ViNewsRec-150K,dev,Viễn thông,25
+ViNewsRec-150K,dev,Việc làm,6
+ViNewsRec-150K,dev,Văn hóa,565
+ViNewsRec-150K,dev,Văn nghệ,81
+ViNewsRec-150K,dev,Xe cộ,293
+ViNewsRec-150K,dev,Xã hội,710
+ViNewsRec-150K,dev,Y tế,61
+ViNewsRec-150K,dev,Âm nhạc,61
+ViNewsRec-150K,dev,Điện ảnh,276
+ViNewsRec-150K,dev,Đoàn - Hội,2
+ViNewsRec-150K,dev,Đô thị,120
+ViNewsRec-150K,dev,Địa ốc,16
+ViNewsRec-150K,dev,Đời sống,596
+ViNewsRec-150K,dev,Ẩm thực,35
+ViNewsRec-150K,test,AI,14
+ViNewsRec-150K,test,An ninh,235
+ViNewsRec-150K,test,An ninh mạng,13
+ViNewsRec-150K,test,Blockchain,4
+ViNewsRec-150K,test,Bảo mật,1
+ViNewsRec-150K,test,Bất động sản,100
+ViNewsRec-150K,test,COVID-19,7
+ViNewsRec-150K,test,Chuyển đổi số,26
+ViNewsRec-150K,test,Chính sách xã hội,16
+ViNewsRec-150K,test,Chính trị,564
+ViNewsRec-150K,test,Chứng khoán,3
+ViNewsRec-150K,test,Công an,16
+ViNewsRec-150K,test,Công nghệ,516
+ViNewsRec-150K,test,Công nghệ số,15
+ViNewsRec-150K,test,Dinh dưỡng,26
+ViNewsRec-150K,test,Doanh nghiệp,72
+ViNewsRec-150K,test,Doanh nhân,49
+ViNewsRec-150K,test,Du lịch,172
+ViNewsRec-150K,test,Game,16
+ViNewsRec-150K,test,Gia đình,34
+ViNewsRec-150K,test,Giao thông,108
+ViNewsRec-150K,test,Giáo dục,699
+ViNewsRec-150K,test,Giải trí,502
+ViNewsRec-150K,test,Giới trẻ,132
+ViNewsRec-150K,test,Hoa hậu,1
+ViNewsRec-150K,test,Hạ tầng số,31
+ViNewsRec-150K,test,Internet,9
+ViNewsRec-150K,test,Khoa học,133
+ViNewsRec-150K,test,Kinh doanh,319
+ViNewsRec-150K,test,Kinh tế,890
+ViNewsRec-150K,test,Kinh tế số,6
+ViNewsRec-150K,test,Kinh tế xanh,3
+ViNewsRec-150K,test,Lao động,91
+ViNewsRec-150K,test,Luật,23
+ViNewsRec-150K,test,Làm đẹp,25
+ViNewsRec-150K,test,Môi trường,14
+ViNewsRec-150K,test,Mạng xã hội,1
+ViNewsRec-150K,test,Ngân hàng,13
+ViNewsRec-150K,test,Nhà đất,24
+ViNewsRec-150K,test,Nhịp sống,108
+ViNewsRec-150K,test,Nông nghiệp,17
+ViNewsRec-150K,test,Nông thôn,4
+ViNewsRec-150K,test,Nội thất,4
+ViNewsRec-150K,test,Pháp luật,946
+ViNewsRec-150K,test,Phóng sự,11
+ViNewsRec-150K,test,Quốc phòng,13
+ViNewsRec-150K,test,Quốc tế,389
+ViNewsRec-150K,test,Sách báo,17
+ViNewsRec-150K,test,Sức khỏe,758
+ViNewsRec-150K,test,Thế giới,1136
+ViNewsRec-150K,test,Thể thao,1414
+ViNewsRec-150K,test,Thị trường,382
+ViNewsRec-150K,test,Thời sự,1783
+ViNewsRec-150K,test,Thời trang,55
+ViNewsRec-150K,test,Tiêu dùng,52
+ViNewsRec-150K,test,Tài chính,141
+ViNewsRec-150K,test,Viễn thông,25
+ViNewsRec-150K,test,Việc làm,6
+ViNewsRec-150K,test,Văn hóa,565
+ViNewsRec-150K,test,Văn nghệ,81
+ViNewsRec-150K,test,Xe cộ,293
+ViNewsRec-150K,test,Xã hội,710
+ViNewsRec-150K,test,Y tế,61
+ViNewsRec-150K,test,Âm nhạc,61
+ViNewsRec-150K,test,Điện ảnh,276
+ViNewsRec-150K,test,Đoàn - Hội,2
+ViNewsRec-150K,test,Đô thị,120
+ViNewsRec-150K,test,Địa ốc,16
+ViNewsRec-150K,test,Đời sống,596
+ViNewsRec-150K,test,Ẩm thực,35
+ViNewsRec-200K,train,AI,148
+ViNewsRec-200K,train,An ninh,2508
+ViNewsRec-200K,train,An ninh mạng,142
+ViNewsRec-200K,train,Blockchain,44
+ViNewsRec-200K,train,Bảo mật,8
+ViNewsRec-200K,train,Bất động sản,1068
+ViNewsRec-200K,train,COVID-19,79
+ViNewsRec-200K,train,Chuyển đổi số,278
+ViNewsRec-200K,train,Chính sách xã hội,172
+ViNewsRec-200K,train,Chính trị,6011
+ViNewsRec-200K,train,Chứng khoán,37
+ViNewsRec-200K,train,Công an,172
+ViNewsRec-200K,train,Công nghệ,5502
+ViNewsRec-200K,train,Công nghệ số,161
+ViNewsRec-200K,train,Dinh dưỡng,277
+ViNewsRec-200K,train,Doanh nghiệp,766
+ViNewsRec-200K,train,Doanh nhân,524
+ViNewsRec-200K,train,Du lịch,1838
+ViNewsRec-200K,train,Game,165
+ViNewsRec-200K,train,Gia đình,363
+ViNewsRec-200K,train,Giao thông,1156
+ViNewsRec-200K,train,Giáo dục,7451
+ViNewsRec-200K,train,Giải trí,5349
+ViNewsRec-200K,train,Giới trẻ,1412
+ViNewsRec-200K,train,Hoa hậu,13
+ViNewsRec-200K,train,Hạ tầng số,328
+ViNewsRec-200K,train,Internet,100
+ViNewsRec-200K,train,Khoa học,1420
+ViNewsRec-200K,train,Kinh doanh,3404
+ViNewsRec-200K,train,Kinh tế,9496
+ViNewsRec-200K,train,Kinh tế số,61
+ViNewsRec-200K,train,Kinh tế xanh,37
+ViNewsRec-200K,train,Lao động,967
+ViNewsRec-200K,train,Luật,244
+ViNewsRec-200K,train,Làm đẹp,265
+ViNewsRec-200K,train,Môi trường,149
+ViNewsRec-200K,train,Mạng xã hội,8
+ViNewsRec-200K,train,Ngân hàng,140
+ViNewsRec-200K,train,Nhà đất,261
+ViNewsRec-200K,train,Nhịp sống,1155
+ViNewsRec-200K,train,Nông nghiệp,176
+ViNewsRec-200K,train,Nông thôn,45
+ViNewsRec-200K,train,Nội thất,40
+ViNewsRec-200K,train,Pháp luật,10087
+ViNewsRec-200K,train,Phóng sự,123
+ViNewsRec-200K,train,Quốc phòng,135
+ViNewsRec-200K,train,Quốc tế,4149
+ViNewsRec-200K,train,Sách báo,183
+ViNewsRec-200K,train,Sức khỏe,8082
+ViNewsRec-200K,train,Thế giới,12115
+ViNewsRec-200K,train,Thể thao,15086
+ViNewsRec-200K,train,Thị trường,4075
+ViNewsRec-200K,train,Thời sự,19013
+ViNewsRec-200K,train,Thời trang,583
+ViNewsRec-200K,train,Tiêu dùng,552
+ViNewsRec-200K,train,Tài chính,1507
+ViNewsRec-200K,train,Viễn thông,266
+ViNewsRec-200K,train,Việc làm,68
+ViNewsRec-200K,train,Văn hóa,6029
+ViNewsRec-200K,train,Văn nghệ,864
+ViNewsRec-200K,train,Xe cộ,3125
+ViNewsRec-200K,train,Xã hội,7579
+ViNewsRec-200K,train,Y tế,653
+ViNewsRec-200K,train,Âm nhạc,644
+ViNewsRec-200K,train,Điện ảnh,2941
+ViNewsRec-200K,train,Đoàn - Hội,28
+ViNewsRec-200K,train,Đô thị,1283
+ViNewsRec-200K,train,Địa ốc,166
+ViNewsRec-200K,train,Đời sống,6354
+ViNewsRec-200K,train,Ẩm thực,370
+ViNewsRec-200K,dev,AI,18
+ViNewsRec-200K,dev,An ninh,314
+ViNewsRec-200K,dev,An ninh mạng,18
+ViNewsRec-200K,dev,Blockchain,6
+ViNewsRec-200K,dev,Bảo mật,1
+ViNewsRec-200K,dev,Bất động sản,133
+ViNewsRec-200K,dev,COVID-19,10
+ViNewsRec-200K,dev,Chuyển đổi số,35
+ViNewsRec-200K,dev,Chính sách xã hội,22
+ViNewsRec-200K,dev,Chính trị,752
+ViNewsRec-200K,dev,Chứng khoán,5
+ViNewsRec-200K,dev,Công an,22
+ViNewsRec-200K,dev,Công nghệ,688
+ViNewsRec-200K,dev,Công nghệ số,20
+ViNewsRec-200K,dev,Dinh dưỡng,35
+ViNewsRec-200K,dev,Doanh nghiệp,96
+ViNewsRec-200K,dev,Doanh nhân,65
+ViNewsRec-200K,dev,Du lịch,230
+ViNewsRec-200K,dev,Game,21
+ViNewsRec-200K,dev,Gia đình,45
+ViNewsRec-200K,dev,Giao thông,144
+ViNewsRec-200K,dev,Giáo dục,932
+ViNewsRec-200K,dev,Giải trí,669
+ViNewsRec-200K,dev,Giới trẻ,177
+ViNewsRec-200K,dev,Hoa hậu,1
+ViNewsRec-200K,dev,Hạ tầng số,41
+ViNewsRec-200K,dev,Internet,13
+ViNewsRec-200K,dev,Khoa học,178
+ViNewsRec-200K,dev,Kinh doanh,425
+ViNewsRec-200K,dev,Kinh tế,1187
+ViNewsRec-200K,dev,Kinh tế số,7
+ViNewsRec-200K,dev,Kinh tế xanh,4
+ViNewsRec-200K,dev,Lao động,121
+ViNewsRec-200K,dev,Luật,30
+ViNewsRec-200K,dev,Làm đẹp,33
+ViNewsRec-200K,dev,Môi trường,19
+ViNewsRec-200K,dev,Mạng xã hội,1
+ViNewsRec-200K,dev,Ngân hàng,18
+ViNewsRec-200K,dev,Nhà đất,32
+ViNewsRec-200K,dev,Nhịp sống,144
+ViNewsRec-200K,dev,Nông nghiệp,22
+ViNewsRec-200K,dev,Nông thôn,5
+ViNewsRec-200K,dev,Nội thất,5
+ViNewsRec-200K,dev,Pháp luật,1261
+ViNewsRec-200K,dev,Phóng sự,15
+ViNewsRec-200K,dev,Quốc phòng,17
+ViNewsRec-200K,dev,Quốc tế,519
+ViNewsRec-200K,dev,Sách báo,23
+ViNewsRec-200K,dev,Sức khỏe,1010
+ViNewsRec-200K,dev,Thế giới,1515
+ViNewsRec-200K,dev,Thể thao,1886
+ViNewsRec-200K,dev,Thị trường,510
+ViNewsRec-200K,dev,Thời sự,2377
+ViNewsRec-200K,dev,Thời trang,73
+ViNewsRec-200K,dev,Tiêu dùng,69
+ViNewsRec-200K,dev,Tài chính,188
+ViNewsRec-200K,dev,Viễn thông,33
+ViNewsRec-200K,dev,Việc làm,8
+ViNewsRec-200K,dev,Văn hóa,754
+ViNewsRec-200K,dev,Văn nghệ,108
+ViNewsRec-200K,dev,Xe cộ,390
+ViNewsRec-200K,dev,Xã hội,947
+ViNewsRec-200K,dev,Y tế,81
+ViNewsRec-200K,dev,Âm nhạc,81
+ViNewsRec-200K,dev,Điện ảnh,367
+ViNewsRec-200K,dev,Đoàn - Hội,3
+ViNewsRec-200K,dev,Đô thị,160
+ViNewsRec-200K,dev,Địa ốc,21
+ViNewsRec-200K,dev,Đời sống,794
+ViNewsRec-200K,dev,Ẩm thực,46
+ViNewsRec-200K,test,AI,18
+ViNewsRec-200K,test,An ninh,314
+ViNewsRec-200K,test,An ninh mạng,18
+ViNewsRec-200K,test,Blockchain,6
+ViNewsRec-200K,test,Bảo mật,1
+ViNewsRec-200K,test,Bất động sản,133
+ViNewsRec-200K,test,COVID-19,10
+ViNewsRec-200K,test,Chuyển đổi số,35
+ViNewsRec-200K,test,Chính sách xã hội,22
+ViNewsRec-200K,test,Chính trị,752
+ViNewsRec-200K,test,Chứng khoán,5
+ViNewsRec-200K,test,Công an,22
+ViNewsRec-200K,test,Công nghệ,688
+ViNewsRec-200K,test,Công nghệ số,20
+ViNewsRec-200K,test,Dinh dưỡng,35
+ViNewsRec-200K,test,Doanh nghiệp,96
+ViNewsRec-200K,test,Doanh nhân,65
+ViNewsRec-200K,test,Du lịch,230
+ViNewsRec-200K,test,Game,21
+ViNewsRec-200K,test,Gia đình,45
+ViNewsRec-200K,test,Giao thông,144
+ViNewsRec-200K,test,Giáo dục,932
+ViNewsRec-200K,test,Giải trí,669
+ViNewsRec-200K,test,Giới trẻ,177
+ViNewsRec-200K,test,Hoa hậu,1
+ViNewsRec-200K,test,Hạ tầng số,41
+ViNewsRec-200K,test,Internet,13
+ViNewsRec-200K,test,Khoa học,178
+ViNewsRec-200K,test,Kinh doanh,425
+ViNewsRec-200K,test,Kinh tế,1187
+ViNewsRec-200K,test,Kinh tế số,7
+ViNewsRec-200K,test,Kinh tế xanh,4
+ViNewsRec-200K,test,Lao động,121
+ViNewsRec-200K,test,Luật,30
+ViNewsRec-200K,test,Làm đẹp,33
+ViNewsRec-200K,test,Môi trường,19
+ViNewsRec-200K,test,Mạng xã hội,1
+ViNewsRec-200K,test,Ngân hàng,18
+ViNewsRec-200K,test,Nhà đất,32
+ViNewsRec-200K,test,Nhịp sống,144
+ViNewsRec-200K,test,Nông nghiệp,22
+ViNewsRec-200K,test,Nông thôn,5
+ViNewsRec-200K,test,Nội thất,5
+ViNewsRec-200K,test,Pháp luật,1261
+ViNewsRec-200K,test,Phóng sự,15
+ViNewsRec-200K,test,Quốc phòng,17
+ViNewsRec-200K,test,Quốc tế,519
+ViNewsRec-200K,test,Sách báo,23
+ViNewsRec-200K,test,Sức khỏe,1010
+ViNewsRec-200K,test,Thế giới,1515
+ViNewsRec-200K,test,Thể thao,1886
+ViNewsRec-200K,test,Thị trường,510
+ViNewsRec-200K,test,Thời sự,2377
+ViNewsRec-200K,test,Thời trang,73
+ViNewsRec-200K,test,Tiêu dùng,69
+ViNewsRec-200K,test,Tài chính,188
+ViNewsRec-200K,test,Viễn thông,33
+ViNewsRec-200K,test,Việc làm,8
+ViNewsRec-200K,test,Văn hóa,754
+ViNewsRec-200K,test,Văn nghệ,108
+ViNewsRec-200K,test,Xe cộ,390
+ViNewsRec-200K,test,Xã hội,947
+ViNewsRec-200K,test,Y tế,81
+ViNewsRec-200K,test,Âm nhạc,81
+ViNewsRec-200K,test,Điện ảnh,367
+ViNewsRec-200K,test,Đoàn - Hội,3
+ViNewsRec-200K,test,Đô thị,160
+ViNewsRec-200K,test,Địa ốc,21
+ViNewsRec-200K,test,Đời sống,794
+ViNewsRec-200K,test,Ẩm thực,46

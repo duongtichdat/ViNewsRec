@@ -1,0 +1,13 @@
+subset,split,num_documents,num_labels
+ViNewsRec-50K,train,40000,70
+ViNewsRec-50K,dev,5000,70
+ViNewsRec-50K,test,5000,70
+ViNewsRec-100K,train,80000,70
+ViNewsRec-100K,dev,10000,70
+ViNewsRec-100K,test,10000,70
+ViNewsRec-150K,train,120000,70
+ViNewsRec-150K,dev,15000,70
+ViNewsRec-150K,test,15000,70
+ViNewsRec-200K,train,160000,70
+ViNewsRec-200K,dev,20000,70
+ViNewsRec-200K,test,20000,70
