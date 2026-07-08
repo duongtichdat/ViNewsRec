@@ -1,6 +1,6 @@
-# ViNewsRec: A Large-Scale Vietnamese News Dataset for News Recommendation
+# ViNewsRec: A Large-Scale Vietnamese News Dataset for News Classification and Recommendation Research
 
-ViNewsRec is a large-scale Vietnamese news dataset constructed for research on Vietnamese NLP, information retrieval, topic modeling, and news recommendation.
+ViNewsRec is a large-scale Vietnamese news dataset constructed for research on Vietnamese NLP, information retrieval, topic modeling, and news classification and recommendation research.
 
 ## Dataset Overview
 
@@ -27,6 +27,14 @@ Each full record in ViNewsRec follows the schema below:
   "text": "string"
 }
 ```
+## Category Normalization
+
+ViNewsRec includes a category normalization process to reduce inconsistencies across news sources. In the original crawled data, categories from different newspapers used heterogeneous naming conventions. After data cleaning and filtering, 251 valid original categories were mapped into 70 normalized categories.
+
+The category mapping files are provided in the `data/` directory:
+
+- `category_mapping.csv`: mapping from each original category to its normalized category.
+- `category_mapping_grouped.csv`: grouped view of normalized categories and their corresponding original categories.
 
 # ViNewsRec Benchmark
 
@@ -122,14 +130,7 @@ The released scripts include data split generation, baseline training, Transform
 
 ## Citation
 
-If you use ViNewsRec Benchmark, please cite our paper:
 
-    @article{vinewsrec2026,
-      title={ViNewsRec: A Large-Scale Vietnamese News Dataset for News Recommendation},
-      author={...},
-      journal={...},
-      year={2026}
-    }
 
 
 
