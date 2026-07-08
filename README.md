@@ -96,10 +96,12 @@ Individual result files are also provided for each baseline model:
 ## Repository Structure
 
     data/
+      category_mapping.csv
+      category_mapping_grouped.csv
       label_mapping.csv
       benchmark_split_summary.csv
       benchmark_category_distribution.csv
-
+      
     results/
       all_benchmark_results.csv
       tfidf_linear_results.csv
