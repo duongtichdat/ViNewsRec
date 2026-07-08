@@ -122,7 +122,7 @@ Individual result files are also provided for each baseline model:
 
 Due to file size limitations, the benchmark split files in JSONL format are provided separately via Google Drive. The split files include train, dev, and test sets for ViNewsRec-50K, ViNewsRec-100K, ViNewsRec-150K, and ViNewsRec-200K.
 
-**Google Drive link:** [https://drive.google.com/drive/u/1/folders/12b7EMfVdBauwImqgD7c29XmIyjs-mZeu]
+**Google Drive link:** [https://drive.google.com/drive/folders/12b7EMfVdBauwImqgD7c29XmIyjs-mZeu]
 
 ## Reproducibility
 
